@@ -16,11 +16,11 @@ If Node is not installed this will not run.
 
 # New Feature
 
-###Zoomy Touch
+### Zoomy Touch
 
 This is a pretty large new feature and is written right into the core of Zoomy. Just add an extra file and you have Zoomy working on touch devices.
 
-###Responsive
+### Responsive
 
 This has been a feature for a while in my dev files, but finally it has made it to stable. 
 
